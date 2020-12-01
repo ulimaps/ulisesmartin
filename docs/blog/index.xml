@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ulises Martín Ibarra</title>
+    <link>http://ulisesibarra.com/blog/</link>
+    <description>Recent content in Blogs on Ulises Martín Ibarra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Tue, 01 Dec 2020 14:33:41 -0600</lastBuildDate><atom:link href="http://ulisesibarra.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lidar El Dia Que Me Encontré a Loam Livox</title>
+      <link>http://ulisesibarra.com/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</link>
+      <pubDate>Tue, 01 Dec 2020 14:33:41 -0600</pubDate>
+      
+      <guid>http://ulisesibarra.com/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Qué Trata Este Blog</title>
+      <link>http://ulisesibarra.com/blog/de-que-trata-este-blog/</link>
+      <pubDate>Tue, 01 Dec 2020 14:33:08 -0600</pubDate>
+      
+      <guid>http://ulisesibarra.com/blog/de-que-trata-este-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
