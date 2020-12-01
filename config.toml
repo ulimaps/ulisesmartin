@@ -1,0 +1,18 @@
+baseURL = "http://ulisesibarra.com/"
+languageCode = "es-mx"
+title = "Ulises Martín Ibarra"
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 0
+  [[menu.main]]
+	identifier = "blog"
+	name = "Blog"
+	title = "Blog"
+	url = "/blog/"
+	weight = 0
