@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ulises Martín Ibarra</title>
-    <link>http://ulisesibarra.com/</link>
+    <link>https://ulimaps.github.io/ulisesmartin/</link>
     <description>Recent content on Ulises Martín Ibarra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:33:41 -0600</lastBuildDate><atom:link href="http://ulisesibarra.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 14:33:41 -0600</lastBuildDate><atom:link href="https://ulimaps.github.io/ulisesmartin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lidar El Dia Que Me Encontré a Loam Livox</title>
-      <link>http://ulisesibarra.com/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</link>
+      <link>https://ulimaps.github.io/ulisesmartin/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</link>
       <pubDate>Tue, 01 Dec 2020 14:33:41 -0600</pubDate>
       
-      <guid>http://ulisesibarra.com/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</guid>
+      <guid>https://ulimaps.github.io/ulisesmartin/blog/lidar-el-dia-que-me-encontre-a-loam-livox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>De Qué Trata Este Blog</title>
-      <link>http://ulisesibarra.com/blog/de-que-trata-este-blog/</link>
+      <link>https://ulimaps.github.io/ulisesmartin/blog/de-que-trata-este-blog/</link>
       <pubDate>Tue, 01 Dec 2020 14:33:08 -0600</pubDate>
       
-      <guid>http://ulisesibarra.com/blog/de-que-trata-este-blog/</guid>
+      <guid>https://ulimaps.github.io/ulisesmartin/blog/de-que-trata-este-blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://ulisesibarra.com/contacto/</link>
+      <link>https://ulimaps.github.io/ulisesmartin/contacto/</link>
       <pubDate>Tue, 01 Dec 2020 13:41:08 -0600</pubDate>
       
-      <guid>http://ulisesibarra.com/contacto/</guid>
+      <guid>https://ulimaps.github.io/ulisesmartin/contacto/</guid>
       <description>Email: ulisesmartinibarra arroba gmail punto com
 Twitter: @ulisesmartin</description>
     </item>
