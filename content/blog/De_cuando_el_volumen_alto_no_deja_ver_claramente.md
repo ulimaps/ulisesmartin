@@ -1,7 +1,7 @@
 ---
 title: "De cuando el volumen alto no deja ver claramente"
 date: 2022-10-30T09:46:09-06:00
-draft: true
+draft: false
 ---
 De cuando el volumen alto no deja ver claramente. 
 
