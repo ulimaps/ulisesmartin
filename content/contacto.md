@@ -6,5 +6,7 @@ draft: false
 
 Email: ulisesmartinibarra arroba gmail punto com
 
-Twitter: @ulisesmartin
+Twitter: https://twitter.com/ulisesmartin
+
+Instagram: https://www.instagram.com/soytopografo/
 
